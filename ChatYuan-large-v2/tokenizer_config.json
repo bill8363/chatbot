@@ -1,0 +1,8 @@
+{
+    "eos_token": "</s>",
+    "unk_token": "<unk>",
+    "pad_token": "<pad>",
+    "extra_ids": 0, "additional_special_tokens": null, 
+    "model_max_length": 2048,
+    "name_or_path": "t5-large"
+}
